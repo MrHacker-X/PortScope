@@ -7,7 +7,7 @@ _CONFIGS: dict = {
         "tool": "portscope",
         "name": "PortScope",
         "subtitle": "Local Port & Process Inspector",
-        "version": "1.0.0",
+        "version": "1.1.0",
         "description": "Action to perform: list, port (search by port), process (search by process), details (PID info), check (port availability), kill (terminate PID)",
         "homepage": "https://github.com/MrHacker-X/portscope",
         "author": "MrHacker-X",
